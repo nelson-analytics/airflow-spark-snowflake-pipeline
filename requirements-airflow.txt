@@ -1,0 +1,13 @@
+pandas
+psycopg2
+psycopg2_binary
+python-dotenv
+requests
+openpyxl
+pipx
+sqlalchemy  
+dbt-core
+dbt-clickhouse
+pyspark
+kafka-python
+great_expectations

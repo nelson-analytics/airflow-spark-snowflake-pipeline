@@ -1,0 +1,13 @@
+unifide_ecomm:
+  outputs:
+    dev:
+      account: QDZURPO-YQ18586
+      database: UNIFIED_ECOMM
+      password: xxxxxxx
+      role: ACCOUNTADMIN
+      schema: PUBLIC
+      threads: 3
+      type: snowflake
+      user: 'xxxxxxxx'
+      warehouse: COMPUTE_WH
+  target: dev
